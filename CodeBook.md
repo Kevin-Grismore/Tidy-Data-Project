@@ -18,6 +18,7 @@ New Variables:
 ==============
 
 subject  - the subject id
+
 activity - the type of motion the subject engaged in while the data was recorded
 
 Feature Selection (From the original dataset)
