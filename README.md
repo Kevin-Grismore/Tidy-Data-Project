@@ -1,2 +1,2 @@
 # Tidy Data Project
-Just place run_analysis.R in the same folder as the UCI HAR Dataset directory and run it, and it will create tidydata.txt
+Just place run_analysis.R in the same folder as the UCI HAR Dataset directory and run it, and it will create tidydata.txt, the same file that was submitted for this assignment.
